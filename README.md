@@ -2,7 +2,7 @@
 ## Overview
 This project analyzes Jumia product data to understand how price, discounts and feedback relate to product engagement. The dashboard explores whether large discounts are associated with more reviews, whether highly rated products attract stronger engagement, which products are performing best or need pricing/marketing attention.
 ## Dataset
-Source: Excel_jumia_dataset.csv  
+Source: [Excel_jumia_dataset.csv](data/Excel_jumia_dataset.csv)  
 Fields: Product, Current Price(Ksh), Old Price, Discount(%), Review(count), Rating(count of 5)
 ### Tools Used
 Microsoft Excel(PivotTables, PivotCharts, slicers, Excel formulas, ScatterPlots)  
