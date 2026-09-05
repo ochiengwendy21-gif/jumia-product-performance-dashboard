@@ -106,3 +106,23 @@ The Excel workbook contains the following worksheets:
 | Pivot_Tables	| Supporting PivotTables and PivotCharts |
 | Dashboard	| Interactive visual dashboard |
 | Data_Dictionary	| Field definitions and cleaning documentation |
+
+## Project Structure
+```
+├── README.md
+├── data/
+│   └── Excel_jumia_dataset.csv
+├── dashboard/
+│   └── Jumia Product Performance Dashboard.xlsx
+└── image/
+    ├── raw_data.png
+    ├── cleaned_data.png
+    ├── pivot_tables.png
+    └── dashboard.png
+```
+## How to Use
+1.	Download the Excel workbook from the dashboard folder.  
+2.	Open the workbook using Microsoft Excel.  
+3.	Select Data → Refresh All to refresh queries and PivotTables. 
+4.	Navigate to the Dashboard worksheet. 
+5.	Use the slicers to interactively filter the analysis.
